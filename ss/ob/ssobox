@@ -1,0 +1,1 @@
+{"name":"ssobox","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd8e1a93e2e95adf8591ce835583518d9060809087c06d124d27cbce7d79427e","features":{},"yanked":false}
