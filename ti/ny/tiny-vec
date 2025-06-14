@@ -12,3 +12,4 @@
 {"name":"tiny-vec","vers":"0.9.2","deps":[],"cksum":"e055c60f43dcf9e3224ae60509a66d8414fff40edefb432c920d224e54851fc2","features":{"default":[],"use-nightly-features":[]},"yanked":false}
 {"name":"tiny-vec","vers":"0.9.3","deps":[],"cksum":"cd47894d6c1c2575fcf89c9cba4444fa50af1678a92532ac796744873e3e569b","features":{"default":[],"use-nightly-features":[]},"yanked":false}
 {"name":"tiny-vec","vers":"0.9.4","deps":[],"cksum":"d9fc489b0399efda85ea27e3958124568f7967976c3667e7ea0ee5b94b8cfc26","features":{"alloc":[],"default":["alloc"],"use-nightly-features":[]},"yanked":false}
+{"name":"tiny-vec","vers":"0.9.5","deps":[],"cksum":"b8465a4b351db5b4cdb95c51b508296a32f3f8a1ac2783b28a58c30f3c3fed5b","features":{"alloc":[],"default":["alloc"],"use-nightly-features":[]},"yanked":false}
