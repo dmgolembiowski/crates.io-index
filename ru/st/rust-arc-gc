@@ -6,3 +6,4 @@
 {"name":"rust-arc-gc","vers":"0.1.5","deps":[],"cksum":"4234ddabc86c84a2d0069ec8a0b816212eb8b5f0d8952cea947f5b83daaeb87a","features":{},"yanked":false}
 {"name":"rust-arc-gc","vers":"0.1.6","deps":[],"cksum":"6fdd2ae36b72704ebe4a0f780ce5cd45404f3608d90aae1d1827885bf6a6a914","features":{},"yanked":false}
 {"name":"rust-arc-gc","vers":"0.1.7","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63894222e2a9e6a80c48d77e92470f2f431604bfbde0b5a687f8d5029ee62d50","features":{},"yanked":false}
+{"name":"rust-arc-gc","vers":"0.2.0","deps":[{"name":"rustc-hash","req":"^2.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4f09424d5919bfdbcfcff9ace93d55cf18119dfee81730571e378b194523df4","features":{},"yanked":false}
