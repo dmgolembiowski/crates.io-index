@@ -1,1 +1,2 @@
 {"name":"cursor-rules","vers":"0.1.0","deps":[],"cksum":"f4cb31b34d099db06cd229467fed0756ba4cc51e63df20d1e6d46827c3fe473a","features":{},"yanked":false}
+{"name":"cursor-rules","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.40","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48a6bf19b4cabec21932e209bde387a92eeb7b98d5464321a400c75762edab35","features":{},"yanked":false}
