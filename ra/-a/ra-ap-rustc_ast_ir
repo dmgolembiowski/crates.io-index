@@ -1,0 +1,10 @@
+{"name":"ra-ap-rustc_ast_ir","vers":"0.107.0","deps":[],"cksum":"2a561f5ecd10c5e97aab2352ac540cd6b93eb4db84fab9592893c093ca5efb38","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.108.0","deps":[],"cksum":"358fd91c9c03ae8a12e259d753bc2ac0a233440c7ed85f6e482139cc9a8808d1","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.109.0","deps":[],"cksum":"0165a644c6ac34151f618bc7a2754c7a7ad4ab7c50f269d744138aea6180f40b","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.110.0","deps":[],"cksum":"688e8a2306ce3f566dc5bc62656f58d494409cb25cf1856c25b54fb7b15459fa","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.111.0","deps":[],"cksum":"ec199782f826ac85b857b1b0ba4de0e9fd415fec439fcf2994355f8a760f2618","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.112.0","deps":[],"cksum":"2d53b2cebf26ac478ad49403d05bce9d4b2b5d492c7ce9388932815a73b8276f","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.113.0","deps":[],"cksum":"ffe78f907b5d243d6c5aa62bcd8571b0ec80a0e1b189d528935d38067c5c1b31","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.114.0","deps":[],"cksum":"f697c003650e91be931da710223df9475b383360f1d93d3b5a4e65c76a50559f","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.115.0","deps":[],"cksum":"9354a0e50d5ae40a5b77fe56d69ba6a897389315329234ee7dce30a140c37e01","features":{"nightly":[]},"yanked":false}
+{"name":"ra-ap-rustc_ast_ir","vers":"0.116.0","deps":[],"cksum":"ec5d777978398c0e4061cf2425ab23e6022b1ddcd3beca7dfa5cf43e81ef2ce5","features":{"nightly":[]},"yanked":false}

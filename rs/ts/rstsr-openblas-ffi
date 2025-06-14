@@ -1,0 +1,11 @@
+{"name":"rstsr-openblas-ffi","vers":"0.0.1","deps":[],"cksum":"b45cc6e7a54570990108e9b41ccab63fee3c882d535f7a186f42025e11ec2e2a","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.1.0","deps":[],"cksum":"b907c08955acf36d14aca641777154ae37982078ebb01c8a4f0b6e7aff6b34f7","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.0","deps":[],"cksum":"bfa09224cd5eb09b4f6b2747cadc76d1494edd1027935cbd5769b30eda9b58e6","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.1","deps":[],"cksum":"62fbe2be4f13486f3019d2297850c5b19d0977d900da01669e084e97b605813e","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.2","deps":[],"cksum":"7348a358fff0f509804294e11c042a7014d08552a6f31afa53095540e66c1d97","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.3","deps":[],"cksum":"d918e107f97971b2ab78f1a96a21fa04b455481c454f383d8c79181a72db2643","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.4","deps":[],"cksum":"3df5d65cf72028aca1ee54ad626adb41c64daa2dbe12cffee0061e107fd9a4f6","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.5","deps":[],"cksum":"6e6b4b2f7b5387e85b226d6323aadfdb6065aa23cad3ed0488bd29a1a1af9100","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.2.6","deps":[],"cksum":"8309a822a0849bb2d23745f0a3c281d0fd5a98e3de071e92dfeb91c40e8d4073","features":{"default":[],"ilp64":[],"openmp":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.3.0","deps":[],"cksum":"5d7daa620b7977855af0e80724ce0d09e619673c03a4933b2155d5df1c1cf76c","features":{"default":[],"ex_precision":[],"ilp64":[],"quad_precision":[]},"yanked":false}
+{"name":"rstsr-openblas-ffi","vers":"0.3.1","deps":[],"cksum":"e337d79052512362d157edc9e097ba7fae2732d0b99b1f3aad2c8a4043c8a214","features":{"default":[],"ex_precision":[],"ilp64":[],"quad_precision":[]},"yanked":false}
