@@ -1,0 +1,1 @@
+{"name":"dotparser","vers":"0.2.0","deps":[{"name":"petgraph","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b447d4d334f4ad60cce5aff258a212320a12bf26bd317cf5c006cd5daea6f968","features":{},"yanked":false}
