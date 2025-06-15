@@ -2,3 +2,4 @@
 {"name":"syncrs","vers":"0.1.1","deps":[],"cksum":"5c5c1e220d4a0019ab2e138904c02a8bbdd04495436efbc7f8b189f037b57716","features":{},"yanked":true}
 {"name":"syncrs","vers":"0.1.2","deps":[],"cksum":"09184b4a44398b24971482280a2013dffbccd0f873e25114c5cede6fc1931b10","features":{},"yanked":false}
 {"name":"syncrs","vers":"0.2.0","deps":[],"cksum":"cceb16bfc2d7abe89e8584e57b25f83b133d9e30122ffc58e82428b59e21c2be","features":{},"yanked":false}
+{"name":"syncrs","vers":"0.2.1","deps":[],"cksum":"3a1c8f7af974406edb312accc18fc33be3c0f088eef1dd2ea43abd32945017e0","features":{},"yanked":false}
