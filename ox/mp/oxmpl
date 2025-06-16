@@ -1,0 +1,1 @@
+{"name":"oxmpl","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"711f2cddc9ca3e0018e5f7fece62b6fce9826438eaabf8c281dfab898364a0a9","features":{},"yanked":false}
