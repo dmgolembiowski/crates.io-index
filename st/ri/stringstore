@@ -1,0 +1,1 @@
+{"name":"stringstore","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc8ec58f339debfc30d20e983fe9eac70efcd5f3ccabb3b94f22e2643d4cf3d3","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
