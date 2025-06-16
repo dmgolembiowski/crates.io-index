@@ -1,3 +1,3 @@
 {"name":"command-ifyer","vers":"0.1.0","deps":[],"cksum":"b048bc81bac947247677e20e71e88e1697bea077c7e84592ecb4025628a451f7","features":{},"yanked":false,"rust_version":"1.85.1"}
-{"name":"command-ifyer","vers":"0.1.1","deps":[],"cksum":"6de593a1fc0f5e81194c155757e5c8ee3ec4dc93d776096483e4d347b6c75070","features":{},"yanked":false,"rust_version":"1.85.1"}
+{"name":"command-ifyer","vers":"0.1.1","deps":[],"cksum":"6de593a1fc0f5e81194c155757e5c8ee3ec4dc93d776096483e4d347b6c75070","features":{},"yanked":true,"rust_version":"1.85.1"}
 {"name":"command-ifyer","vers":"0.1.2","deps":[],"cksum":"05c07a704d078be708745481326c78577685c96a6cdbb7dd17f46d5e1d4ecaea","features":{},"yanked":false,"rust_version":"1.85.1"}
