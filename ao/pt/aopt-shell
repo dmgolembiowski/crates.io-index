@@ -1,0 +1,1 @@
+{"name":"aopt-shell","vers":"0.1.0","deps":[{"name":"aopt-core","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5f812116478177b060a78ce86526694ecfa4f18cb006bb43d810aa2704c7df6","features":{"default":[],"log":["aopt-core/log"],"serde":["aopt-core/serde"],"sync":["aopt-core/sync"]},"yanked":false}
