@@ -1,0 +1,1 @@
+{"name":"imagnum","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64364f2902e533171a2b9aca410ec1ce95e7cf052d22b84a2f199ba4b2807f99","features":{},"yanked":false}
