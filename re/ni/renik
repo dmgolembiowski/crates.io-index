@@ -1,1 +1,2 @@
 {"name":"renik","vers":"0.1.0","deps":[],"cksum":"a496111fb605f870b5606ae93b1571b68252fe202c569ea1ae162204c3d0fb9c","features":{},"yanked":false}
+{"name":"renik","vers":"0.2.0","deps":[{"name":"bytemuck","req":"^1.23.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77fdee039d202444a193c88d663fb6a366131b326e01c36c1d55d3704a26baa0","features":{},"yanked":false}
