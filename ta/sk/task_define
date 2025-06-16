@@ -8,3 +8,4 @@
 {"name":"task_define","vers":"0.1.8","deps":[],"cksum":"2d49ebc03044e60f0a2e0a030eca84e792cfa54b6286f3a17411b3f6cacc3bec","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"task_define","vers":"0.1.9","deps":[],"cksum":"e80a4c6a9b4dd05b7259e9687dafe39741d214b6ad52fa9d0a82a0da06156037","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"task_define","vers":"0.1.10","deps":[],"cksum":"49e335c1d7e3f77a8099c73be6f9a9ce37537d49b252a3c82dc4ab727543953b","features":{},"yanked":false,"rust_version":"1.86"}
+{"name":"task_define","vers":"0.1.11","deps":[],"cksum":"e3a6ab564adb5719bfa3ba43d9e8e74ced219d9becd083a1eb40edb81df7649a","features":{},"yanked":false,"rust_version":"1.86"}
