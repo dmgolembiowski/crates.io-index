@@ -1,0 +1,1 @@
+{"name":"fuoco","vers":"0.0.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"521f014f10bb0233b503251a18cf8d64be98fd5c58356476acab02567bf41ef4","features":{},"yanked":false}
