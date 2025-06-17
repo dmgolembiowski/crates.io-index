@@ -1,0 +1,1 @@
+{"name":"anathema-store","vers":"0.2.0","deps":[{"name":"anathema-debug","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"334a48c80a3e802da17f7626d234a750335a8d6effea36bdc9eb368127c92c42","features":{},"yanked":false}
