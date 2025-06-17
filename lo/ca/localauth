@@ -1,0 +1,1 @@
+{"name":"localauth","vers":"0.1.0","deps":[{"name":"rpassword","req":"^7.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fbe0046698c41f519c9a2b7985f6c5355e315dde3502ea4000ea44c0a7000b1","features":{},"yanked":false}
