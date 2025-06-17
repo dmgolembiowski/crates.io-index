@@ -1,0 +1,1 @@
+{"name":"typed-env","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fd264819d6360c17ed0b89606f74d330587ab10ab9ab12cf9e786f696c28547","features":{},"yanked":false}
