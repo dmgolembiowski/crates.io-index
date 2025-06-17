@@ -1,0 +1,1 @@
+{"name":"anathema-strings","vers":"0.2.0","deps":[{"name":"anathema-store","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20da06040154625301e03355e7d721801febfad85f0534d031e5788f1ce57dfc","features":{},"yanked":false}
