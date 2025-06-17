@@ -1,0 +1,1 @@
+{"name":"openmw-config","vers":"0.1.0","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f35029ee5377add4ffd8b94234af55e1471c541966f3e5bd9b0af689a588e27a","features":{},"yanked":false}
