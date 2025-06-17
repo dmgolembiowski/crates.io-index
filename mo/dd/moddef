@@ -6,3 +6,4 @@
 {"name":"moddef","vers":"0.2.4","deps":[],"cksum":"8acc434de4a2355d7e662ebb9e44d5f9b8c57a19bb7c23015f0ca16c442180d5","features":{},"yanked":false}
 {"name":"moddef","vers":"0.2.5","deps":[],"cksum":"16616251281356e2fd978b8a757881c8ef671a6f6110e44ea643e1f90fa263d4","features":{},"yanked":false}
 {"name":"moddef","vers":"0.2.6","deps":[],"cksum":"4e519fd9c6131c1c9a4a67f8bdc4f32eb4105b16c1468adea1b8e68c98c85ec4","features":{},"yanked":false}
+{"name":"moddef","vers":"0.3.0","deps":[],"cksum":"4a0b3262dc837d2513fe2ef31ff8461352ef932dcca31ba0c0abe33547cf6b9b","features":{},"yanked":false}
