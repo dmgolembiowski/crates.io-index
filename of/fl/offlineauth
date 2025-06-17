@@ -1,1 +1,0 @@
-{"name":"offlineauth","vers":"0.1.0","deps":[{"name":"rpassword","req":"^7.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2c58c00bd3e4d0ded863ee891751066b23707673f58c030bb130079e0a90f53","features":{},"yanked":false}
