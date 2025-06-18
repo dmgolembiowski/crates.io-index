@@ -1,1 +1,2 @@
 {"name":"anathema-debug","vers":"0.2.0","deps":[],"cksum":"ab86e40bbc0b3c1d5d3d5f3e60ed4b60c24ee248a9fe9946712b1cb614d6504d","features":{"default":[],"filelog":[]},"yanked":false}
+{"name":"anathema-debug","vers":"0.2.1","deps":[],"cksum":"e48255ea7029edaa7f9f14a0eccd180467ea06dc635101453bffc871897aab45","features":{"default":[],"filelog":[]},"yanked":false}
