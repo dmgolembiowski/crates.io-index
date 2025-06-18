@@ -1,3 +1,4 @@
 {"name":"generic-upper-bound","vers":"1.0.0","deps":[],"cksum":"99abd6483ff64a5a9912d5e2abff9d3d10b85b13ccf786e0fccf6b444f3e45fc","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"generic-upper-bound","vers":"1.0.1","deps":[],"cksum":"23ad6e192305efd480243a2ca94f5e5f10f7a110836439ce378c69eaf0c59851","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"generic-upper-bound","vers":"1.1.0","deps":[],"cksum":"211dcbb8bd0eaf5c687f010e2432c29af2ce4b8bbfcc2d9671bffe7c01a9e959","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"generic-upper-bound","vers":"2.0.0","deps":[],"cksum":"e1ebb8d086ec41d27ee576b46800b14d78af80af912cd3694f84214755b8f4b1","features":{},"yanked":false,"rust_version":"1.78"}
