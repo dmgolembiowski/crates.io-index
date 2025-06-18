@@ -1,1 +1,2 @@
 {"name":"anathema-strings","vers":"0.2.0","deps":[{"name":"anathema-store","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20da06040154625301e03355e7d721801febfad85f0534d031e5788f1ce57dfc","features":{},"yanked":false}
+{"name":"anathema-strings","vers":"0.2.1","deps":[{"name":"anathema-store","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28e57f5fd424398ca602f1382331ae89ca6feddb6b63dc6cdc2c389ebd1938e2","features":{},"yanked":false}
