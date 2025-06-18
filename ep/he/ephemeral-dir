@@ -1,1 +1,2 @@
 {"name":"ephemeral-dir","vers":"0.0.1","deps":[],"cksum":"f62dac9f11f1e487f2fd40291b27d258ad0c11f65318b5120c08497afc403c46","features":{},"yanked":false}
+{"name":"ephemeral-dir","vers":"0.0.2","deps":[{"name":"eyre","req":"^0.6.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54b006bbef109ed61fa6e8165b0945ca9d7c3f2f26f42b9ae40ad792e18d1fb0","features":{},"yanked":false}
