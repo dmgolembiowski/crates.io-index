@@ -1,1 +1,2 @@
 {"name":"glfw-ext","vers":"0.1.0","deps":[{"name":"glfw","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd975e8f2d139bc32d8f2a7ae7ddc982e9422e6c0d4b45f5bcb9507b716b6afd","features":{},"yanked":false}
+{"name":"glfw-ext","vers":"0.52.0","deps":[{"name":"glfw","req":"^0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"677062b6429928b9f79448d87efaa6816d5fcb676b58bdb4e488947e9cd4cb44","features":{},"yanked":false}
