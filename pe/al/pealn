@@ -1,0 +1,1 @@
+{"name":"pealn","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2efba357619dc1401cc2230fb78d4206154f3972d656bec97eb7fb1369ec451a","features":{},"yanked":false}
