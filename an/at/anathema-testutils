@@ -1,0 +1,1 @@
+{"name":"anathema-testutils","vers":"0.2.2","deps":[{"name":"anathema","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0be06896d9fc09998fc1bf7cdd6029c141249900c1afb4083bea15234dd433e","features":{},"yanked":false}
