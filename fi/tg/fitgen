@@ -1,1 +1,0 @@
-{"name":"fitgen","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbbf7587045958a6131064331a0854c3df4f694cc69c484847f2c4a90604ed64","features":{},"yanked":false}
