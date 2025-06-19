@@ -1,0 +1,1 @@
+{"name":"rusted-ring","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d574b6f246f8d3dae41a2b3cf2ece95830708e2dc94598664d3b59f89b0519d","features":{},"yanked":false}
