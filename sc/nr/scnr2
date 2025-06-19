@@ -1,0 +1,1 @@
+{"name":"scnr2","vers":"0.1.0","deps":[{"name":"scnr2_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1fb2f65e60d1ec11cf511c22667ff77911165441b2c3c4c19e27f0f144193a1","features":{},"yanked":false}
