@@ -17,3 +17,4 @@
 {"name":"colorsys","vers":"0.6.5","deps":[],"cksum":"4dfdf9179d546b55ff3f88c9d93ecfaa3e9760163da5a1080af5243230dbbb70","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"colorsys","vers":"0.6.6","deps":[],"cksum":"52c2ad453c82bd637e3969dc52f06676610db0b20c607bf0634c7e9d840789e8","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"colorsys","vers":"0.6.7","deps":[],"cksum":"54261aba646433cb567ec89844be4c4825ca92a4f8afba52fc4dd88436e31bbd","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"colorsys","vers":"0.7.0","deps":[],"cksum":"aee37dd2dc25d67ce9bca2709c384843c46d1582158ed5e2483d52b6da30e7d8","features":{"default":["std"],"std":[]},"yanked":false}
