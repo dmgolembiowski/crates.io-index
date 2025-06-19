@@ -4,3 +4,4 @@
 {"name":"syntastica-queries","vers":"0.4.1","deps":[],"cksum":"748418fbe2c7ae6247f78703894a31f0c556d08a4197759b852d47258c182f56","features":{},"yanked":false}
 {"name":"syntastica-queries","vers":"0.5.0","deps":[],"cksum":"5e215ee84e7ca976ec46954088b322cc7d5e9516a4432aaf41f153bf11de63ec","features":{},"yanked":false}
 {"name":"syntastica-queries","vers":"0.6.0","deps":[],"cksum":"13899dc2d84b8af5e0cc1f58d919a4d5ec9da2aca41edc9c4d3b2adb541e6e7c","features":{},"yanked":false}
+{"name":"syntastica-queries","vers":"0.6.1","deps":[],"cksum":"a39185b86d0392cc01484934e2e6dfad5126e953aa2b9bff4dacc703d7b018fb","features":{},"yanked":false}
