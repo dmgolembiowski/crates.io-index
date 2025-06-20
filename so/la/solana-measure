@@ -501,3 +501,4 @@
 {"name":"solana-measure","vers":"2.2.16","deps":[],"cksum":"17ad91e789a54f47b59ce6648ac8f048fcd700da794d6d4d83c342784dcec630","features":{},"yanked":false}
 {"name":"solana-measure","vers":"2.3.0","deps":[],"cksum":"41a20920c22df3351f2b64ee32c66bb2704211cfd773651b20ce43526ef69661","features":{},"yanked":false}
 {"name":"solana-measure","vers":"2.2.17","deps":[],"cksum":"647a56d91de388e03b9f21b61e86d9dbac9d8617ac643f905c73c17a680ca00f","features":{},"yanked":false}
+{"name":"solana-measure","vers":"2.3.1","deps":[],"cksum":"9b595ca49ec02c6f3f31c6ff7788186b982ad211600c8d885baf389171af8a52","features":{},"yanked":false}
