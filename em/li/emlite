@@ -9,3 +9,4 @@
 {"name":"emlite","vers":"0.1.8","deps":[],"cksum":"32daa26586bcc867e78bc63d725fac37e7cd8ee6c925b8c6edb06cddff4f8a3c","features":{},"yanked":false}
 {"name":"emlite","vers":"0.1.9","deps":[],"cksum":"c0884499f25dfce7517b6cdc20c71c814241421495f87227e105c96f687c15c8","features":{"default":[],"threaded":[]},"yanked":false}
 {"name":"emlite","vers":"0.1.10","deps":[],"cksum":"e12650857a9b0b7c160f3f31b5d0ab357b916115692a06b002f7e7442064e8f9","features":{"default":[],"threaded":[]},"yanked":false}
+{"name":"emlite","vers":"0.1.11","deps":[],"cksum":"1368cae9c7fc980653ab82975c80ee83de9e70849a6a158c007cb09f5cc30e92","features":{},"yanked":false}
