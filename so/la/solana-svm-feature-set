@@ -1,2 +1,3 @@
 {"name":"solana-svm-feature-set","vers":"0.0.0","deps":[],"cksum":"939c60fcd48d51fbe345c9bced1f0bf516e5ab0e3d92d694d7ff67ea3825e051","features":{},"yanked":false}
 {"name":"solana-svm-feature-set","vers":"2.3.0","deps":[],"cksum":"64ab8f1bb85d0dd43f3cd937d745d23510892bad2c31dd70482c513f08ddd6b2","features":{},"yanked":false}
+{"name":"solana-svm-feature-set","vers":"2.3.1","deps":[],"cksum":"16c5cf1acee9ce9333f62fea518b641e0454245004def6cb938fd3a182e1526c","features":{},"yanked":false}
