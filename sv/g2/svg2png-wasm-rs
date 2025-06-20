@@ -1,0 +1,1 @@
+{"name":"svg2png-wasm-rs","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e12afc35683acdff867716d22ec55dad6751b3aadf7f5d3a49cc2489dad83b37","features":{},"yanked":false}
