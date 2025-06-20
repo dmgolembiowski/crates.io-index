@@ -1,1 +1,2 @@
 {"name":"unipipes","vers":"0.2.0","deps":[{"name":"unipipe","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734e7315a576e8af81e6775df420b2a016bb8a43aa6a36d75fb6ffb4e2c476b4","features":{},"yanked":false}
+{"name":"unipipes","vers":"0.2.1","deps":[{"name":"unipipe","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1940afa63268fbd133a339cc8224d7ced82dd83459c5a9242956425a666dca7","features":{},"yanked":false}
