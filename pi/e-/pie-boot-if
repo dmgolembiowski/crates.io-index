@@ -3,3 +3,4 @@
 {"name":"pie-boot-if","vers":"0.2.0","deps":[],"cksum":"31b7b209c808df86a39f37d8c97161c17320599a44edec0420190a97965014f6","features":{},"yanked":false}
 {"name":"pie-boot-if","vers":"0.3.0","deps":[],"cksum":"4a3efc1049fcf115b4fe598a618fd31eb73a3253ebe86c275806affb2ecc9a5a","features":{},"yanked":false}
 {"name":"pie-boot-if","vers":"0.4.0","deps":[],"cksum":"f9acf510d796dc5528db0428e6cf9097a97bd06d3e284117d8b7604f424e41f5","features":{},"yanked":false}
+{"name":"pie-boot-if","vers":"0.4.1","deps":[],"cksum":"3e5905396f9d1f5f775d22bc963bb7d60f809931b68f5e4155b9db9855a5ad15","features":{},"yanked":false}
