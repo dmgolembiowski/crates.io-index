@@ -1,0 +1,1 @@
+{"name":"barcode-gen","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2174e34a1f5c9d2c88ab4d2a1caaf06832178358a860ef59a625b24b65f7900b","features":{"default":["parallel"],"parallel":["rayon"]},"yanked":false}
