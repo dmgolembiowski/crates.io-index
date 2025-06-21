@@ -3,3 +3,4 @@
 {"name":"generic-upper-bound","vers":"1.1.0","deps":[],"cksum":"211dcbb8bd0eaf5c687f010e2432c29af2ce4b8bbfcc2d9671bffe7c01a9e959","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"generic-upper-bound","vers":"2.0.0","deps":[],"cksum":"e1ebb8d086ec41d27ee576b46800b14d78af80af912cd3694f84214755b8f4b1","features":{},"yanked":false,"rust_version":"1.78"}
 {"name":"generic-upper-bound","vers":"3.0.0","deps":[{"name":"type-const","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e2fe5a2a5d4b37449eb3dab22fa5928e7e20115e01dbfbbdb529399b4247861","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"generic-upper-bound","vers":"3.0.1","deps":[{"name":"type-const","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"809cd3614a799ac2d054dceaba24bffdb888eb3437ef417de1ee59a3d94fc3b7","features":{},"yanked":false,"rust_version":"1.78"}
