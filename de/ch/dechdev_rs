@@ -1,1 +1,2 @@
 {"name":"dechdev_rs","vers":"0.1.0","deps":[],"cksum":"0dbc848f3055bbbc14cd5acac65cdd6d1b0ed4fcb3cc542886eeddb14156d90b","features":{},"yanked":false}
+{"name":"dechdev_rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f15b04d157dfe28e8973b34d814ff9a5579cec2a5c738695497fe168dfd430a6","features":{},"yanked":false}
