@@ -2,3 +2,4 @@
 {"name":"rlex","vers":"0.1.1","deps":[],"cksum":"6bd61b25a3d1c91e91bccca4067b7c043a4b480f73f17b00bdae0f40db74a6cd","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.2","deps":[],"cksum":"2224c2e5ee3987d1fcc46736580bf9a1e0bf218b79a8cffd6df390a31cb76eba","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.3","deps":[],"cksum":"498963bcde4f92d7a48e7d761e23d5362877508b175dd93ddea15a97f0d3930f","features":{},"yanked":false}
+{"name":"rlex","vers":"0.1.4","deps":[],"cksum":"2ab5680f9508635b18be0e78ab480cb83772c24109b9ac01bdbf30d1e1e6b7f2","features":{},"yanked":false}
