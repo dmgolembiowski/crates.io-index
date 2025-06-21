@@ -1,1 +1,2 @@
 {"name":"decimus","vers":"0.0.0","deps":[],"cksum":"033f56d97e9ece4de2fe52da05a10f0b84fcdff110ffad9e591d7d00f6c4f5d5","features":{},"yanked":false}
+{"name":"decimus","vers":"0.0.1","deps":[],"cksum":"3ec39fb911e780e5f0936310d4e27890ded9e81f11f30dc1825afa1f1d58af0b","features":{"bid-set-status-flags":[],"default":["bid-set-status-flags"],"ieee-round-nearest":[],"ieee-round-nearest-ties-away":[]},"yanked":false}
