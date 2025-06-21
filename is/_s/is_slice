@@ -15,3 +15,4 @@
 {"name":"is_slice","vers":"0.11.0","deps":[],"cksum":"2ad1fb4c70b4fc68861e7e47c75222d480a6a1e02f37164cccfc7837f9d946b7","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
 {"name":"is_slice","vers":"0.12.0","deps":[],"cksum":"a950274599034d8851c64cc92b17b1739c0aed4443eefa3bd7c776e959fcda00","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
 {"name":"is_slice","vers":"0.13.0","deps":[],"cksum":"dcaf1c3931f92f5c48e3b836d7b4c2fc127c16cd8f23f74d192230e392a4f31d","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
+{"name":"is_slice","vers":"0.14.0","deps":[],"cksum":"c00f74d67e568232b4865ad01e112303f558c2050be1df608b7364632e180b7a","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false}
