@@ -1,0 +1,1 @@
+{"name":"figura","vers":"0.0.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ccee551a6d2b1dfd364fa725eed02de7f1783aa8caf1560598760db604dde8d","features":{},"yanked":false}
