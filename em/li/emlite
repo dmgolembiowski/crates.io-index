@@ -11,3 +11,4 @@
 {"name":"emlite","vers":"0.1.10","deps":[],"cksum":"e12650857a9b0b7c160f3f31b5d0ab357b916115692a06b002f7e7442064e8f9","features":{"default":[],"threaded":[]},"yanked":false}
 {"name":"emlite","vers":"0.1.11","deps":[],"cksum":"1368cae9c7fc980653ab82975c80ee83de9e70849a6a158c007cb09f5cc30e92","features":{},"yanked":false}
 {"name":"emlite","vers":"0.1.12","deps":[],"cksum":"753e5678e41ede92fabd7eea9715cedce8d88a648d8e1f321dfbc647330279e4","features":{},"yanked":false}
+{"name":"emlite","vers":"0.1.13","deps":[],"cksum":"9160b38b26fe9b3c9872336db98f7e0821a74b283c109508f42e9489b0c5cc63","features":{},"yanked":false}
