@@ -1,0 +1,1 @@
+{"name":"TerminalSudoku","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"670dd20b95fa24b80446a4b738802d1208990f8fafc1688e4100fbfc58bd7390","features":{},"yanked":false}
