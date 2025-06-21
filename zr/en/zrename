@@ -1,0 +1,1 @@
+{"name":"zrename","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67501ec8791dcf88f7afbea4638c38baba7d0a6d7f2c4d5384e369c29aa6277b","features":{},"yanked":false}
