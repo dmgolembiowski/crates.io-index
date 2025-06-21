@@ -37,3 +37,4 @@
 {"name":"lang_extension","vers":"1.0.0","deps":[],"cksum":"3f0dc3308135bf1413c4ea017abce7433a5ea4352b11e6fbf788a59be949af60","features":{},"yanked":false}
 {"name":"lang_extension","vers":"1.0.1","deps":[],"cksum":"914be4f63a1413e1bd7129b3ecf9b446e87fbe5c20631cef23a84a7de538b83a","features":{},"yanked":false}
 {"name":"lang_extension","vers":"1.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04e3beff42f3a81e48af2c55b959ce4a116838d124bc148ded40c82ed81ada15","features":{},"yanked":false}
+{"name":"lang_extension","vers":"1.1.1","deps":[{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0adfd471bf937692dfe2093b6311ce2087b3a37ce558a0bc85ee2fa6147a9ba3","features":{},"yanked":false}
