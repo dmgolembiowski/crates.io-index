@@ -1,1 +1,2 @@
 {"name":"anathema-testutils","vers":"0.2.2","deps":[{"name":"anathema","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0be06896d9fc09998fc1bf7cdd6029c141249900c1afb4083bea15234dd433e","features":{},"yanked":false}
+{"name":"anathema-testutils","vers":"0.2.3","deps":[{"name":"anathema","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"773da9b2b9423a8060618e583d9573fead3e4074d3d5513dbf00834d1d84cd0d","features":{},"yanked":false}
