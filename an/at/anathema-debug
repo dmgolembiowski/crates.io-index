@@ -2,3 +2,4 @@
 {"name":"anathema-debug","vers":"0.2.1","deps":[],"cksum":"e48255ea7029edaa7f9f14a0eccd180467ea06dc635101453bffc871897aab45","features":{"default":[],"filelog":[]},"yanked":false}
 {"name":"anathema-debug","vers":"0.2.2","deps":[],"cksum":"5333d48014c28747b634253f6da88659bfff6cfedc0003621bdb3081705c3733","features":{"default":[],"filelog":[]},"yanked":false}
 {"name":"anathema-debug","vers":"0.2.3","deps":[],"cksum":"71fd547b82cf7d9decd529d10ccb651a469a749a65b7b063a2b7166b0a7341ee","features":{"default":[],"filelog":[]},"yanked":false}
+{"name":"anathema-debug","vers":"0.2.4","deps":[],"cksum":"04e3f48fc8b97ea3e05284b681661156497e75f94389baa4556122ae8e88c6e8","features":{"default":[],"filelog":[]},"yanked":false}
