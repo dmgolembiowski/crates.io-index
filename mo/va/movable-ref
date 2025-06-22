@@ -1,0 +1,1 @@
+{"name":"movable-ref","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.6","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e7dbeb3b9872c1e13e23afb57ae0ae0327341a24367570b8f21484b9fe832c7","features":{"default":[],"nightly":[],"no_std":[]},"yanked":false}
