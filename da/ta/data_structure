@@ -6,3 +6,4 @@
 {"name":"data_structure","vers":"0.1.5","deps":[],"cksum":"2cf06d3e94dea70f7afb625c0dae658b2fefcdc3eed8c23113eb39f7ea20a128","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.6","deps":[],"cksum":"ef9c1d696a28b1af33a499946f4256567be008c58f5a413730399f676f550597","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.7","deps":[],"cksum":"28fca4d270e656b75d3efa8b9b13f92f294d462af5332dc5f53e6dcd851f9c22","features":{},"yanked":false}
+{"name":"data_structure","vers":"0.1.8","deps":[],"cksum":"b01c2b57a405a450f7aa0ae8b57f6523ef411ff5dd0cbae242d45b3567ef06f0","features":{},"yanked":false}
