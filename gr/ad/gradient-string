@@ -1,0 +1,1 @@
+{"name":"gradient-string","vers":"0.1.0","deps":[{"name":"gradient-slice","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74dba5964966a875e1043e8adf8b9eb057ee57f4b9fbd179ba6a73757054c165","features":{},"yanked":false}
