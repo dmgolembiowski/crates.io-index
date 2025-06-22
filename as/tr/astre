@@ -1,0 +1,1 @@
+{"name":"astre","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfefa4ddde8eb525a649cb5d7d62009f674374400049447d45a54148850bbdf5","features":{},"yanked":false}
