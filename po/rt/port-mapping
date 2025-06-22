@@ -1,0 +1,1 @@
+{"name":"port-mapping","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.45.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"683a908b9416269c2dc68fe7ed96891b0c7b96a87092cb4460ce5d27ac24bd43","features":{},"yanked":false}
