@@ -1,0 +1,1 @@
+{"name":"pxfm","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5b7cb7459d83997ef5fe3c7a797d20ff6a7aed893dd6612aec35537711af3ab","features":{},"yanked":false,"rust_version":"1.85"}
