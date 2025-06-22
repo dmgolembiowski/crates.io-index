@@ -1,2 +1,3 @@
 {"name":"gradient-slice","vers":"0.1.0","deps":[],"cksum":"38406c0ba5cedf940300c2440811dfb80a38505f671c43aa44d72879205a4618","features":{},"yanked":false}
 {"name":"gradient-slice","vers":"0.2.0","deps":[],"cksum":"0c91fb134ad2a7d85f394c8643901633ef85cb946cbb4c8176085ae5d788d8cd","features":{},"yanked":false}
+{"name":"gradient-slice","vers":"0.2.1","deps":[],"cksum":"f7efb9a7f7753249b7fe873850d6b21f8a1d7b3252ff4ebafaceeb726ef73c82","features":{},"yanked":false}
