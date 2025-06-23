@@ -1,0 +1,1 @@
+{"name":"lilypads","vers":"0.8.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06a9fb442558aa4d815e09ac97a340aa531cd7c913379fd55ac42f6511b3b960","features":{},"yanked":false}
