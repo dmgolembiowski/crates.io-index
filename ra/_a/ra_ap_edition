@@ -31,3 +31,4 @@
 {"name":"ra_ap_edition","vers":"0.0.286","deps":[],"cksum":"1e843ecb30e73b2694dec8e85bc0c4014290cab1743fce950b14f05045e490a3","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ra_ap_edition","vers":"0.0.287","deps":[],"cksum":"256c6ccfe5a6a65a11178bccde3ea7eb38691b251348ed21356b8d3fcd77fb8b","features":{},"yanked":false,"rust_version":"1.86"}
 {"name":"ra_ap_edition","vers":"0.0.288","deps":[],"cksum":"fb5538d534eeb8526071610664dc64b71ca336b78f6933ff7241d10c1f37e91b","features":{},"yanked":false,"rust_version":"1.86"}
+{"name":"ra_ap_edition","vers":"0.0.289","deps":[],"cksum":"6a513da0d1f572c1497574babc07ff92b83adaa569705c5307be1dd67e82e6f8","features":{},"yanked":false,"rust_version":"1.86"}
