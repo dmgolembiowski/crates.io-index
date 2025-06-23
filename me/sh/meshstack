@@ -1,2 +1,3 @@
 {"name":"meshstack","vers":"0.1.0","deps":[],"cksum":"4693a32f7d3652e1bc906e01501fb9a8562b096ffcf1f6bfea6700807e165b63","features":{},"yanked":false}
 {"name":"meshstack","vers":"0.1.1","deps":[],"cksum":"e1f71ddea401af3e186400f8f331a0fc3490fb0292b75fe166e11fa6161f5912","features":{},"yanked":false}
+{"name":"meshstack","vers":"0.1.2","deps":[],"cksum":"004bdd25fd5cf767583ce6375da738a87021b18a9c1cf10eba91503e4d420cca","features":{},"yanked":false}
