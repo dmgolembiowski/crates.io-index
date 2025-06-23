@@ -13,3 +13,4 @@
 {"name":"meshstack","vers":"0.1.12","deps":[],"cksum":"1e568c37a5b4b8bc26180af8088a4664b29f326011050a38435fc7328fb161dd","features":{},"yanked":false}
 {"name":"meshstack","vers":"0.1.13","deps":[],"cksum":"137bfc60c6b6d7dd2e55253b620a9bf68c4791ce438ba5b543460a60f52f14cf","features":{},"yanked":false}
 {"name":"meshstack","vers":"0.1.14","deps":[],"cksum":"7947f7003be95e1d66f3fac821423e80bf4b66d9424885ec3e3e52aae9ca9ae4","features":{},"yanked":false}
+{"name":"meshstack","vers":"0.1.15","deps":[],"cksum":"39602de9e8672d5ab78583cdd0e4263df1a1bddc8f182950f84500f467b076b9","features":{},"yanked":false}
