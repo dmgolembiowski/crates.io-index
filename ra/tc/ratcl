@@ -1,1 +1,2 @@
 {"name":"ratcl","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d27af8a7fe414a39ab077bbbfb0a0351ad3ed61e9506c46b4b587f4588dfdaf4","features":{},"yanked":false}
+{"name":"ratcl","vers":"0.1.1","deps":[{"name":"ratatui","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec4579b5e6ef581424e2b2a7a3537f0789a89e867551f5cf70abb9f2102a9cf8","features":{},"yanked":false}
