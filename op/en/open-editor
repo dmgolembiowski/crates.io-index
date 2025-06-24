@@ -1,0 +1,1 @@
+{"name":"open-editor","vers":"0.1.0","deps":[{"name":"which","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eb1d515b9010ed8b9a77c34b4ae5c17d5c61e5f8a038c89eb939672e663011d","features":{},"yanked":false}
