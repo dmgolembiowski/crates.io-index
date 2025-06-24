@@ -1,0 +1,1 @@
+{"name":"numbat-wasm-modules","vers":"0.0.19","deps":[{"name":"numbat-wasm","req":"^0.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"854cfeee362d19341e08bc4210c2adeb6f7ab11fe021c5915d12b04eaaea537f","features":{"alloc":["numbat-wasm/alloc"]},"yanked":false}
