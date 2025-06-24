@@ -1,0 +1,1 @@
+{"name":"parking-game","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a33b756ad7e7f5904649a495fbdc3948007b15708ca318f160eaf3bbb1cb7f7b","features":{},"yanked":false}
