@@ -1,0 +1,1 @@
+{"name":"bgdrop","vers":"0.1.1","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a304cdf1bcb4a59eaa1a684dea52b36271b7ce046251fe787e506407f9e6b7a5","features":{},"yanked":false}
