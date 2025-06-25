@@ -1,0 +1,1 @@
+{"name":"dyn_compatible","vers":"0.1.0","deps":[{"name":"dyn_compatible_macro","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8903555317a43f0ee4feb1e6b6f605430e912110419c97ad4ccc260a808eb592","features":{},"yanked":false}
