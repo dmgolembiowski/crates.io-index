@@ -1,0 +1,1 @@
+{"name":"mupdf-basic-text-extractor","vers":"0.1.0","deps":[{"name":"mupdf","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"070bd79803871677a54e315feb037e0e99a401d597553cdf07bd981fc83d19aa","features":{},"yanked":false}
