@@ -1,0 +1,1 @@
+{"name":"duat-sneak","vers":"0.1.0","deps":[{"name":"duat-core","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48d95a8473fdb97939a26d2a3d29f5815e696c9b937065f3ed97582b03490cc7","features":{},"yanked":false}
