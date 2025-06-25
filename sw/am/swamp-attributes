@@ -1,0 +1,1 @@
+{"name":"swamp-attributes","vers":"0.1.16","deps":[{"name":"source-map-node","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be867facee0f531b9245c4e37c7ec75f563a2a9ba89b2f3527b2f635bdfd9b94","features":{},"yanked":false}
