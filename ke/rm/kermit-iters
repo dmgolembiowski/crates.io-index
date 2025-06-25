@@ -6,3 +6,4 @@
 {"name":"kermit-iters","vers":"0.0.8-dev","deps":[],"cksum":"cd9ab824db56c5641848df3d1370c8e7f6828a8e69133192961467f72ca640ce","features":{},"yanked":false}
 {"name":"kermit-iters","vers":"0.0.1","deps":[],"cksum":"6d989db44906496f69bfab1cefc545e2e494b4682a28769bfd25b84fd458533d","features":{},"yanked":false}
 {"name":"kermit-iters","vers":"0.0.2","deps":[],"cksum":"88061e5dade10674b28d9db0e220e5f226f5d0f0c3c19d4b7dba5720d49f3135","features":{},"yanked":false}
+{"name":"kermit-iters","vers":"0.0.3","deps":[],"cksum":"59ae5d9627cfa14fe0af6c09c8f56fb15e5e59476ed46726a3a60dcd3531415f","features":{},"yanked":false}
