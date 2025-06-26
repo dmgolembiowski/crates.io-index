@@ -3,3 +3,4 @@
 {"name":"neuromorphic-types","vers":"0.2.0","deps":[],"cksum":"118c7f05424bd742e64b0dd478da8e5a6552a2472a169696cdb7acfc6040e2d4","features":{},"yanked":false}
 {"name":"neuromorphic-types","vers":"0.3.0","deps":[],"cksum":"4140e23e460647c2be341a68f25a99f6c72d5d8a6c9ce2aee55bc85333183f70","features":{},"yanked":false}
 {"name":"neuromorphic-types","vers":"0.4.0","deps":[],"cksum":"2ae9a302788a6d1758106d19192a20e4e65366545c34892b7e0bacc26009a84e","features":{},"yanked":false}
+{"name":"neuromorphic-types","vers":"0.5.0","deps":[],"cksum":"9aa7a12e89a20c62414532ebd85b6466451fcad3d969414610efcca557c12bd5","features":{},"yanked":false}
