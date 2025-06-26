@@ -1,0 +1,1 @@
+{"name":"duat-hop","vers":"0.1.0","deps":[{"name":"duat-core","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83821db680768cbbe7cd5cddbbd0c65dd1e37f539c074dd04e9d11cec1224a94","features":{},"yanked":false}
