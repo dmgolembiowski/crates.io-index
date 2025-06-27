@@ -1,1 +1,1 @@
-{"name":"auth_service_lrn_rusty1","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1fe66cf0f5058b56edd6258771aeca906ea251421b65b6e64297ce1ab43e198","features":{},"yanked":false}
+{"name":"auth_service_lrn_rusty1","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1fe66cf0f5058b56edd6258771aeca906ea251421b65b6e64297ce1ab43e198","features":{},"yanked":true}
