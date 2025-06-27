@@ -1,0 +1,1 @@
+{"name":"badchain-sdk-ids","vers":"2.2.1","deps":[{"name":"solana-pubkey","req":"^2.2.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2d1f43ee6b0c57c94ec173d18c84d841f2cbe0c7274ea2a2c26dc134aeae6d93","features":{},"yanked":false}
