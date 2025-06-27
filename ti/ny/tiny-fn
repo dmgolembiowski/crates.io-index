@@ -7,3 +7,4 @@
 {"name":"tiny-fn","vers":"0.1.6","deps":[],"cksum":"219331d5e8cc8377a282141509c21457a8b87937230fa4b8152d8857bfee2942","features":{"example":[]},"yanked":false}
 {"name":"tiny-fn","vers":"0.1.7","deps":[],"cksum":"2fde9a76dac5751480f711f327371c809d7f8a9f036436e6237d67859adbf3bd","features":{"example":[]},"yanked":false}
 {"name":"tiny-fn","vers":"0.1.8","deps":[],"cksum":"a1828697202716c3092cc45bab542b7c36293cd89b5631a68c8d550e380e074e","features":{"example":[]},"yanked":true}
+{"name":"tiny-fn","vers":"0.1.9","deps":[],"cksum":"9659b108631d1e1cf3e8e489f894bee40bc9d68fd6cc67ec4d4ce9b72d565228","features":{"example":[]},"yanked":false}
