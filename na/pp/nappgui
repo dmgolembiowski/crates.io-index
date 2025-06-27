@@ -1,0 +1,1 @@
+{"name":"nappgui","vers":"0.1.0","deps":[{"name":"nappgui-sys","req":"=0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"089fd18aebfcc3ccfa7a5e3a34238959068b2a634d098aae2043f1a61393d60b","features":{},"yanked":false}
