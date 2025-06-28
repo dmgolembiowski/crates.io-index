@@ -1,0 +1,1 @@
+{"name":"apollo-logger","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f148549d1419e8d2078e4358e561e4393752769c271ce678b4aeddb285c754be","features":{},"yanked":false}
