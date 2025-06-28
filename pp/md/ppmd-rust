@@ -2,3 +2,4 @@
 {"name":"ppmd-rust","vers":"0.2.0","deps":[{"name":"ppmd-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60e4e80e1fc8b8fc2ee66f6916075c4bb8df5a5d422ce268f41722c5ca41d1ab","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"ppmd-rust","vers":"0.3.0","deps":[],"cksum":"e713b0564eedb0c428ad6a5914e770eb2ee98b798f87e40539776f0321872ba7","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"ppmd-rust","vers":"1.0.0","deps":[],"cksum":"e9b5bcbdc0764053cea6bd660a7c59211c5b1df990a6a76b16b3fe8c370450fa","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"ppmd-rust","vers":"1.1.0","deps":[],"cksum":"7c39de2199a0d892194c6327a7bafdc4bd1466f20cd3ee9a21049d1a45a598f3","features":{},"yanked":false,"rust_version":"1.82"}
