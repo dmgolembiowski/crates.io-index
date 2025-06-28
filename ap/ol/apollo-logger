@@ -1,1 +1,2 @@
 {"name":"apollo-logger","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f148549d1419e8d2078e4358e561e4393752769c271ce678b4aeddb285c754be","features":{},"yanked":false}
+{"name":"apollo-logger","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f036ac304fc2d754b167f23a7fefed666c1cb113a2cf16ddfa1905ca0faa3c3d","features":{},"yanked":false}
