@@ -1,0 +1,1 @@
+{"name":"serialport_srwp","vers":"2.0.0","deps":[{"name":"serialport","req":"^4.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36e070e1aee0d343b02e2eb23569ad50955263d91bcb09221ef2015dda1b6978","features":{},"yanked":false}
