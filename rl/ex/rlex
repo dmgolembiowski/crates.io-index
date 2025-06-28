@@ -8,3 +8,4 @@
 {"name":"rlex","vers":"0.1.7","deps":[],"cksum":"3a5ff0898df497d97c52a13a2789641f640ad2eeca0309b46c3c30932ada5c22","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.8","deps":[],"cksum":"2b1a9bb64c8c6e0ce185208c9a85867d6e079dd6e7ee0d527f050314e96b3bb4","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.9","deps":[],"cksum":"99ec1c73c7124fab0d961b6a6d2ab42bb3812414d719ca8e2130829b29a68794","features":{},"yanked":false}
+{"name":"rlex","vers":"0.1.10","deps":[],"cksum":"eb8c7aa33c846eb7dd4790c2cf15d32c79b914681e57b3caacff564a03435611","features":{},"yanked":false}
