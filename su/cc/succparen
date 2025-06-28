@@ -1,0 +1,1 @@
+{"name":"succparen","vers":"0.0.1","deps":[{"name":"noargs","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"splay_tree","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f35d8412ca600fc7dbcaba7dbe3eef6ac23415d404d59f6157a7d34afefe3fe4","features":{},"yanked":false}
