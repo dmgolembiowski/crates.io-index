@@ -16,3 +16,4 @@
 {"name":"log_x","vers":"1.0.0","deps":[],"cksum":"da22f8e5c525e37fb5c61bd6a16ad008d36567e436f35b80511305b93aa75330","features":{},"yanked":false}
 {"name":"log_x","vers":"1.1.0","deps":[],"cksum":"934fe7da706dd17ce0999f274dae38df1ff0d0023073708b4807fb7d18de4a06","features":{},"yanked":false}
 {"name":"log_x","vers":"1.1.1","deps":[],"cksum":"7f68c599f2460ead56bededf896da0231465f7328ff1dfda808239d80b48c135","features":{},"yanked":false}
+{"name":"log_x","vers":"1.1.2","deps":[],"cksum":"b6b503659f8d19f6abd9b4adf71b63cae5c05269fa5ef47a5e9ac7bfbacbde54","features":{},"yanked":false}
