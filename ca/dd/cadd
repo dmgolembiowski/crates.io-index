@@ -1,1 +1,2 @@
 {"name":"cadd","vers":"0.1.0-alpha.1","deps":[],"cksum":"f8cc674da213d36fec69d026d3afb0db585f4d72c9de0a363d51374caee53f0d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"cadd","vers":"0.1.0-alpha.2","deps":[{"name":"anyhow","req":"^1.0.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bee10007d8695a651daaa3db5181f472725b811bd12b442f0c7dfa9512234ec3","features":{"default":["std"],"std":[]},"yanked":false}
