@@ -1,1 +1,2 @@
 {"name":"godust","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.40","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c4e86b7a60c33af3a0432ceee01d0e9def95ad3b5adb25638a6619695287f74","features":{},"yanked":false}
+{"name":"godust","vers":"0.0.2","deps":[{"name":"clap","req":"^4.5.40","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfa0fb1e1f15e46cdfdd23b1897dfd91c4fb91ed14b45d27e9f26576fbd10dc4","features":{},"yanked":false}
