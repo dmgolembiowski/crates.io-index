@@ -1,0 +1,1 @@
+{"name":"leptos-daisyui-rs","vers":"0.0.1","deps":[{"name":"leptos","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"598dac19ccf78103e5d9fae6c4d5f13cf5bec78a6ffd6ea72802b099994e5b8a","features":{},"yanked":false}
