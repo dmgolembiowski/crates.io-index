@@ -1,0 +1,1 @@
+{"name":"rust-tagged","vers":"0.1.0","deps":[{"name":"tagged-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9439f9a4e7e00ae29d18e4f8d8a9504ddaa0b46f08aea6c70be364978296678","features":{"default":[]},"yanked":false}
