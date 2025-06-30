@@ -1,2 +1,3 @@
 {"name":"promptpay-rs","vers":"0.1.0","deps":[],"cksum":"74977e93e96bb29a6f18eac537e100434a757d947e4c7e62be5e9db50bc1cd83","features":{},"yanked":false}
 {"name":"promptpay-rs","vers":"0.2.0","deps":[],"cksum":"009bddf391bae54ceb454d4052423abe3e442dbdcce922abbf3643c865b23d83","features":{},"yanked":false}
+{"name":"promptpay-rs","vers":"0.3.0","deps":[{"name":"qrcode","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qrcode","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"67f2d005e3793efb1a82aafe5d5b8d619544d073d60afa749241eee23c7c2d6e","features":{},"yanked":false}
