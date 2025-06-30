@@ -1,1 +1,2 @@
 {"name":"eot","vers":"0.1.0","deps":[],"cksum":"1227434d556b411d56f76e2c3e9814c776c7be753afc7c8ae04e2e409a9a3894","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"eot","vers":"0.1.1","deps":[],"cksum":"db5dad2ebc41c786ec4aaf7294cb1669f4e4beb46a286a407e3c6d09f7a005a2","features":{"default":["std"],"std":[],"unified-opcodes":[]},"yanked":false}
