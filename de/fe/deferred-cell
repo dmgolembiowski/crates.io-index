@@ -1,1 +1,2 @@
 {"name":"deferred-cell","vers":"0.5.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87112fb821351f3aac86df0212c3006db82e6ea2720f3103980831cec33d0618","features":{},"yanked":false}
+{"name":"deferred-cell","vers":"0.5.1","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9647b43ab321e6362a51e35a1c84aca11077864b34deee804d01fa732fad09c9","features":{},"yanked":false}
