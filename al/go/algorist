@@ -30,3 +30,4 @@
 {"name":"algorist","vers":"0.9.0","deps":[],"cksum":"3bff993ddffa3a5f482d6a447ada341f866ec5c16a7ebdf188910a919ce6de25","features":{},"yanked":false}
 {"name":"algorist","vers":"0.9.1","deps":[],"cksum":"40a1497e0917fd6301059b5eac69646bf14a7a56a1f1c7d01e724e2dbab3af3a","features":{},"yanked":false}
 {"name":"algorist","vers":"0.10.0","deps":[],"cksum":"fbb2d356898489ffbd0c7d71af48bd0ed9b7df8efdae4fbb1b5f9b77502960bb","features":{},"yanked":false}
+{"name":"algorist","vers":"0.10.1","deps":[],"cksum":"7a752e3cf9b9b069c79553211d81a9fc1523c5caa4d5f4dd107a268acb4e98fd","features":{},"yanked":false}
