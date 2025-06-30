@@ -1,0 +1,1 @@
+{"name":"lin_algebra","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"684a3b659002711eddcfa2d33de5e7026e62fae4c3794d88e28718ddd4b2c233","features":{},"yanked":false}
