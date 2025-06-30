@@ -1,0 +1,1 @@
+{"name":"ruv-swarm-agents","vers":"0.1.0","deps":[{"name":"ruv-swarm-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fdf8c9eba680101dffa48632c39248b5443fe68dbc3cc74a140703593f00e71","features":{},"yanked":false,"rust_version":"1.75"}
