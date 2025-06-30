@@ -1,1 +1,0 @@
-{"name":"cargo-alias-exec","vers":"0.1.0","deps":[{"name":"exec","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d58343ad736f88f18bee07af0cb16acf5de0d427dfe70397f46149059746cd7a","features":{},"yanked":false}
