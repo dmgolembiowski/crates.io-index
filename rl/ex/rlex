@@ -11,3 +11,4 @@
 {"name":"rlex","vers":"0.1.10","deps":[],"cksum":"eb8c7aa33c846eb7dd4790c2cf15d32c79b914681e57b3caacff564a03435611","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.11","deps":[],"cksum":"890d1a4b42514bcf4c7f037a807ad22c2c3304a60c653a8abf4001c262838cfe","features":{},"yanked":false}
 {"name":"rlex","vers":"0.1.12","deps":[],"cksum":"104218a93d3f549d445623ef2d23b85cba816ccce4e5e9f44c6fd07761f66ad7","features":{},"yanked":false}
+{"name":"rlex","vers":"0.1.13","deps":[],"cksum":"ca81f4f07fc514083eb04f44ebeade0119d33186e905a383f5020cb5eb96922c","features":{},"yanked":false}
