@@ -1,1 +1,0 @@
-{"name":"porrapat_auth_service_experimental","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b89c1e36e8885b5fb6ff87638a94eb9f018b3750d3e48888bdb88cff10aec15","features":{},"yanked":false}
