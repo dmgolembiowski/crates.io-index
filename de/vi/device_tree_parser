@@ -1,0 +1,1 @@
+{"name":"device_tree_parser","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ae5fa4478a3ced1d8373d8c6901a0dcd8c128ff53be7ec0a61cfcca76a832f8","features":{"std":[]},"yanked":false}
