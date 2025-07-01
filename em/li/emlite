@@ -14,3 +14,4 @@
 {"name":"emlite","vers":"0.1.13","deps":[],"cksum":"9160b38b26fe9b3c9872336db98f7e0821a74b283c109508f42e9489b0c5cc63","features":{},"yanked":false}
 {"name":"emlite","vers":"0.1.14","deps":[{"name":"cmk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5f7ce1af6d6baa0faa91c6cb4022a114400a2c6d20cec3b16ac680262fc9d92b","features":{},"yanked":false}
 {"name":"emlite","vers":"0.1.15","deps":[{"name":"cmk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c7d06d3eec14c864ce03eb6739d7a3474866c5e426446898ed5cef480d04f64","features":{},"yanked":false}
+{"name":"emlite","vers":"0.1.16","deps":[{"name":"cmk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5664f300e13d8d185b18b9e01a1428c5417a422e9cbf50e28da3b92082870aa6","features":{},"yanked":false}
