@@ -1,0 +1,1 @@
+{"name":"dyn_path","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dcb797a1dc9f1e5a7f6c0528b2e49fe2d5036cba67b89cae50a2d9deb050ed3e","features":{},"yanked":false}
