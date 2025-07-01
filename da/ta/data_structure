@@ -9,3 +9,4 @@
 {"name":"data_structure","vers":"0.1.8","deps":[],"cksum":"b01c2b57a405a450f7aa0ae8b57f6523ef411ff5dd0cbae242d45b3567ef06f0","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.9","deps":[],"cksum":"25065afb4cf43bef601b939bd064ebda1e12556552a8d222eed9b7e52f844cf6","features":{},"yanked":false}
 {"name":"data_structure","vers":"0.1.10","deps":[],"cksum":"ee574baf2d032fae2bfc5bdc83ee8e5edce0496dbd3fd0cb8381574e87709b97","features":{},"yanked":false}
+{"name":"data_structure","vers":"0.1.11","deps":[],"cksum":"1bc5b40cc4d4cfe2ec67a3580a9e52255f1ae554147321b828b0ea696b71ccd4","features":{},"yanked":false}
