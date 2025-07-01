@@ -1,0 +1,1 @@
+{"name":"re_span","vers":"0.24.0-alpha.5","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d0929d1c334ff5b0444607e890a3261b144d90c3f317bccf62bdf619754edb0","features":{},"yanked":false,"rust_version":"1.85"}
