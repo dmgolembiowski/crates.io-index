@@ -1,0 +1,1 @@
+{"name":"argtokens","vers":"0.0.0","deps":[],"cksum":"8eb56cbd033c689bf556d05e75d6255ed56f7f69b1ffeec274c34d4baa53a9db","features":{"default":["inline","std"],"inline":[],"std":[]},"yanked":false,"rust_version":"1.56.0"}
