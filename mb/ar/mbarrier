@@ -1,1 +1,2 @@
 {"name":"mbarrier","vers":"0.1.0","deps":[],"cksum":"cf512eaaebd8cae8c8cfa2b45e61efe93292b181335a3f858fef92d8bec67c6f","features":{"default":["smp"],"smp":[]},"yanked":false}
+{"name":"mbarrier","vers":"0.1.1","deps":[],"cksum":"5413bfb94aee7e714138213abe8f07bc76459adb87e3e7db8c4491c54de5cdc8","features":{"default":["smp"],"smp":[]},"yanked":false}
