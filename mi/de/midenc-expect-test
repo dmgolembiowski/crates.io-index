@@ -1,1 +1,2 @@
 {"name":"midenc-expect-test","vers":"0.0.0","deps":[],"cksum":"d49838c2b363ca0b2ef6a64d01c7f2b1a50c8f892fa8f65143f3063b1eb10133","features":{},"yanked":false}
+{"name":"midenc-expect-test","vers":"0.1.5","deps":[{"name":"once_cell","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"similar","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b7e58b05c113cc5798b1204b882bca10207b9bcc1f7a0943597c1d9565e9ace","features":{},"yanked":false,"rust_version":"1.86"}
