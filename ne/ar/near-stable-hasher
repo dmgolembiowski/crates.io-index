@@ -23,3 +23,4 @@
 {"name":"near-stable-hasher","vers":"0.30.1","deps":[],"cksum":"212f1201cdb334780dac651fb23e2b25f1fc706222db5108b0d8a6abecf8673e","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.31.0-rc.1","deps":[],"cksum":"b440814f8ee5d9b4897d9a9b8a65da55b5c0658c1a3c40ebfdf783e6bbbe4eda","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.31.0-rc.2","deps":[],"cksum":"42a38d3e8cff5c94ac04fb055b21d6c2d4a336bd80855d1f5d3a778aa0e99c87","features":{},"yanked":false}
+{"name":"near-stable-hasher","vers":"0.30.2","deps":[],"cksum":"4036fdd0a020c6fe050ff8fb843306f6af4dbcfa5054fdaac19a1e58c52edfbd","features":{},"yanked":false}
