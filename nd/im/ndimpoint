@@ -5,3 +5,4 @@
 {"name":"ndimpoint","vers":"0.1.4","deps":[],"cksum":"b46d543df04096fc382f5372d67fcee3baa576269606f21eefcd7239d3e1d8f4","features":{},"yanked":false}
 {"name":"ndimpoint","vers":"0.1.5","deps":[],"cksum":"96f896568830329f4dd0690d5f68e62cb3889df2924c6c3599ebbc2f154c4613","features":{},"yanked":false}
 {"name":"ndimpoint","vers":"0.2.0","deps":[],"cksum":"bc95d8a04183816364ef41c6f32c94fcf62d65930886cacf86bf6593815d28b5","features":{},"yanked":false}
+{"name":"ndimpoint","vers":"0.2.1","deps":[],"cksum":"5c605715efe756fdbf86dcbdcfad9acc275618ce388710f344616fbfb1078316","features":{},"yanked":false}
