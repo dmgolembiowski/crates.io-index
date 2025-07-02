@@ -1,0 +1,1 @@
+{"name":"rdss","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d8cf44b340ebfe9b696719add445efb556af0de90f38c05f383c9306262d831","features":{},"yanked":false}
