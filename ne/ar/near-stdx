@@ -30,3 +30,4 @@
 {"name":"near-stdx","vers":"0.30.0","deps":[],"cksum":"803390c84bb6411bfa67905d7418abfe77ff7e9674d3ae86188cb36252914027","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.31.0-rc.1","deps":[],"cksum":"21c4d133ee74736496ee42272ab1904cec1f3e92a2895b5c28d420174bb2a21b","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.31.0-rc.2","deps":[],"cksum":"e7622ad06022b33711a4e4e1e27d6085002889ef2ff90fa9c2c184210e4bac84","features":{},"yanked":false}
+{"name":"near-stdx","vers":"0.30.2","deps":[],"cksum":"809c31ea5a98c50c848e05d69644bf0f881dee7abe58c6bc6d1d2a3015cf397c","features":{},"yanked":false}
