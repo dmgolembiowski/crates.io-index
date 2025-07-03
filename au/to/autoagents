@@ -1,1 +1,2 @@
 {"name":"autoagents","vers":"0.1.0","deps":[],"cksum":"79c0b0b36a580c2fa5b819e2adbd27b14ca0f38c51b1b21ed2a1d5167d197f43","features":{},"yanked":false}
+{"name":"autoagents","vers":"0.1.1-alpha.0","deps":[{"name":"autoagents-core","req":"^0.1.1-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"autoagents-llm","req":"^0.1.1-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6da3ab9f8ed771313f147bb9b392d0c13867ca8f0a0d6e5f617a716e2e4cb84e","features":{},"yanked":false}
